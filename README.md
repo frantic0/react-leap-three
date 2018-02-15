@@ -1,11 +1,11 @@
-# React components for Leap Motion leapjs   
+# React components for Leap Motion
 
-A library of re-usable React components for using Leap Motion data in your client-side, browser application 
+Experimental library of re-usable React components for using Leap Motion data in your client-side, browser application 
 
 ## Install
 
 ```
-npm install ps-react
+npm install react-leap-three
 ```
 
 # Docs
